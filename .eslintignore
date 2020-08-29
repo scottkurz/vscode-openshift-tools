@@ -8,5 +8,4 @@ Godeps
 test-resources
 src/view/log
 src/view/describe
-src/view/cluster
 src/view/webpack.config.js
